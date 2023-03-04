@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#Grupo de Pesquisa Gredes
-#Autor:Pedro Henrique Santana Amaral
+# Grupo de Pesquisa Gredes
+
 import numpy as np
 import cv2
 import sys,os
@@ -10,7 +10,7 @@ from time import sleep
 
 #Declaração da Função que desenha a trajetoria do ARDrone
 def quadrado():
-	print"\n\n	Rota do VOO\n\n"
+	print"\n\n	Rota do VOO \n\n"
 	print" _________________________"
 	print"|         <---------      |"
 	print"| |			^ |"
