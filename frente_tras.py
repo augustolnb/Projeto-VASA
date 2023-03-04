@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#Grupo de Pesquisa Gredes
-#Autor:Pedro Henrique Santana Amaral
+# Grupo de Pesquisa Gredes
+
 import numpy as np
 import cv2
 import sys,os
